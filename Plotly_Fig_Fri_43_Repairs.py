@@ -1,6 +1,7 @@
 import polars as pl
 import plotly.express as px
 import pycountry
+pl.show_versions()
 
 #------------------------------------------------------------------------------#
 #  MAP COUNTRY ABBREVIATIONS TO FULL NAMES, USING PYCOUNTRY LIBRARY            #
